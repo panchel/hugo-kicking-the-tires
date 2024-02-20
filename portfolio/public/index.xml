@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LearnHub</title>
+    <link>https://learnhub.org/</link>
+    <description>Recent content on LearnHub</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://learnhub.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://learnhub.org/about/</link>
+      <pubDate>Tue, 20 Feb 2024 01:19:25 -0500</pubDate>
+      <guid>https://learnhub.org/about/</guid>
+      <description>This is my about page!</description>
+    </item>
+  </channel>
+</rss>
